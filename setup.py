@@ -26,7 +26,7 @@ ment. Following code is sample::
 This module needs sdedit_ and PIL.
 '''
 
-requires = ['Sphinx>=0.6', 'PIL']
+requires = ['Sphinx>=0.6', 'PillowCase']
 
 setup(
     name='sphinxcontrib-sdedit',
